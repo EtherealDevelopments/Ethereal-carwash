@@ -1,4 +1,4 @@
-lib.callback.register('zerx_carwash:server:canAfford', function(source)
+lib.callback.register('Ethereal_carwash:server:canAfford', function(source)
     local src = source
     local Player = QBCore.Functions.GetPlayer(src)
     local bankBalance = Player.PlayerData.money.bank
