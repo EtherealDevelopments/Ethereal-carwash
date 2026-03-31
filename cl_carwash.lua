@@ -20,7 +20,7 @@ local function washCar()
         return
     end
 
-    local success = lib.callback.await("zerx_carwash:server:canAfford", false)
+    local success = lib.callback.await("Ethereal_carwash:server:canAfford", false)
     if not success then return end
 
     washingVehicle = true
