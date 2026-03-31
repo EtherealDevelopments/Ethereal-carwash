@@ -1,4 +1,4 @@
-Zerx Carwash Script
+Ethereal Carwash Script
 
 
 A realistic carwash script for FiveM servers using QBCore / the interact system for location interactions. This script allows players to clean their vehicles at designated carwash locations with a smooth, interactive experience.
